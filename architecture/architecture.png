@@ -1,1 +1,9 @@
-
+Raw Data
+   ↓
+Dimension Tables
+   ↓
+Fact Tables
+   ↓
+Star Schema
+   ↓
+Amazon Redshift
